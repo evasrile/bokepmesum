@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepmesum.pages.dev/sitemap.xml
